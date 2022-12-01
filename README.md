@@ -5,6 +5,6 @@ My name is Merna Alghannam. I moved from a small town in my home country to the 
 Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝
 
- - Twitter Text Analysis Tool- Background: Twitter has reduced content moderation and returned contravercial leaders back on the plaform. I'm developing a tool that track how these changes impacted traffic on Twitter | NLP📜⛏️
+ - Twitter Text Analysis Tool- Background: Twitter has allegedly stopped moderating content and returned contravercial leaders back on the plaform. I'm developing a tool that track how these changes impacted traffic on Twitter | NLP📜⛏️
 
             
