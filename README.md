@@ -1,6 +1,6 @@
 Hi there 👋 <br>
 My name is Merna Alghannam. I grew up in a small town in my home country, and I never imagined to be where I am right today. ✨👩 💻 
-<br><br><br> At Boston University, I am majoring in computer science and minored in mathematics and sociology. I grew up in a small town in my home country, and I never imagined to be where I am right now. ✨👩 💻
+<br><br><br> At Boston University, I am majoring in computer science and minoring in mathematics and sociology. I grew up in a small town in my home country, and I never imagined to be where I am right now. ✨👩 💻
 
 Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝
