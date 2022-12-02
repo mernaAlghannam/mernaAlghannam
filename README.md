@@ -8,6 +8,6 @@ Currently Working On 🚀
  - Twitter Text Analysis Tool- Background: Twitter has allegedly stopped moderating content and returned contravercial leaders back on the plaform. I'm developing a tool that track how these changes impacted traffic on Twitter | NLP📜⛏️
 
             
-# Skills 
+# Skills/Expertise 
 
-Cloud Computing, data engineering machine learning, research, and software development. 
+software development, Cloud Computing, data engineering, machine learning, and research. 
