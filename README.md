@@ -7,6 +7,8 @@ Currently Working On 🚀
 
  - Twitter Text Analysis Tool- Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP📜⛏️
 
+**I'm open to collaboration.. here is my email maalghan@bu.edu**
+
             
 # Skills/Expertise 
 
