@@ -10,4 +10,4 @@ Currently Working On 🚀
             
 # Skills/Expertise 
 
-software development, Cloud Computing, data engineering, machine learning, and research. 
+Software Development, Cloud Computing, Data Engineering, Machine Learning, and Research. 
