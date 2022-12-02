@@ -8,7 +8,8 @@
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br><br><br>
 Currently Working On 🚀
-- Low-budget Recipe Recommender | Web Development 📝
+- Low-budget Recipe Recommender | Web Development 📝 <br>
+   - Additional Potential Features: Input the end date of your ingredients. The app will ping you when a food item is nearing its expiration date
 
  - Twitter Text Analysis Tool- Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP, computational social science📜⛏️
 
