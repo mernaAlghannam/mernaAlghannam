@@ -12,7 +12,7 @@ Currently Working On 🚀
    - Target audience: busy students and professionals who want to eat cheap and healthy meals. 
    - Current features: <br>
          - ✔️ Using [Spoonacular API](https://spoonacular.com/food-api/docs#Ingredient-Search), you can input your budget, nutrients, and diet preferences and the app would recommend cheap recipes based on your input. <br>
-         - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have. 
+         - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have, especially the ones nearing their expiration date. 
    - Potential features: <br>
          - Input the end date of your ingredients. Then, the app will ping you when a food item is nearing its expiration date.<br>
 
