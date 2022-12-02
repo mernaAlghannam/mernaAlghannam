@@ -2,10 +2,11 @@
 
 #### My name is Merna Alghannam. I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am right today. ✨👩 💻 <br><br>  
 -----
-<br> At Boston University, I am majoring in computer science with a minor in mathematics and sociology. I'm also a former **SWE intern @ Snapchat**, where I worked on a lens **recommender system**.
-<br>
+<br> 🏫 I study at Boston University where I am majoring in computer science and minoring in mathematics and sociology. 
+<br><br>💼 I am former **SWE intern @ Snapchat**, where I worked on a lens **recommender system**.
+<br><br>
 💆😌 During my time off, I enjoy drawing, playing the violin, and watching movies. 
-<br>
+<br><br>
 Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝
 
