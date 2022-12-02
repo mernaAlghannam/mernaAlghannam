@@ -5,7 +5,7 @@
 🏫 I am majoring in computer science and minoring in mathematics and sociology @ Boston University. 
 <br><br>💼 I am a former **SWE intern @ Snapchat**, where I worked on a lens **recommender system**.
 <br><br>
-💆 I enjoy painting, playing the violin, and watching movies and basketball games. 
+💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br><br><br>
 Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝
