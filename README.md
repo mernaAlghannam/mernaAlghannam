@@ -6,7 +6,7 @@
 <br><br>💼 I am former **SWE intern @ Snapchat**, where I worked on a lens **recommender system**.
 <br><br>
 💆 I enjoy drawing, playing the violin, and watching movies. 
-<br><br>
+<br><br><br>
 Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝
 
