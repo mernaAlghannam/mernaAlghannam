@@ -16,7 +16,8 @@ Currently Working On 🚀
    - Potential additional features: <br>
          - Input the end date of your ingredients. Then, the app will ping you when a food item is nearing its expiration date.<br>
 
- - Twitter Text Analysis Tool- Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP, computational social science📜⛏️
+ - Twitter Text Analysis Tool | NLP, computational social science📜⛏️ <br>
+   - Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP, computational social science📜⛏️
 
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br><br>
 My tech instagram username: merna.__.al 
