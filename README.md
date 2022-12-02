@@ -11,7 +11,7 @@ Currently Working On 🚀
 - Low-budget Recipe Recommender | Web Development 📝 <br>
    - Current features: <br>
          - Using Spoonacular API (https://rapidapi.com/blog/build-food-website/), you can input your budget, nutrients, and diet and the app would recommend cheap recipes based on your input.
-   - Additional Potential Features: <br>
+   - Next Steps: <br>
          - Input the end date of your ingredients. Then, the app will ping you when a food item is nearing its expiration date.<br>
          - A feature that allows the app to recommend recipes based on the ingredients you have. 
 
