@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Merna Alghannam. I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am right today. ✨👩 💻
+### My name is Merna Alghannam. I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am right today. ✨👩 💻
 -----
 🏫 I am majoring in computer science and minoring in mathematics and sociology @ Boston University. 
 <br><br>💼 I am a former **SWE intern @ Snapchat**, where I worked on a lens **recommender system**.
