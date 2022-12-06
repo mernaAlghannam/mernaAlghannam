@@ -21,7 +21,7 @@
 
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br>
             
-# Skills/Expertise 
+# 💼 Skills/Expertise 
 
 Software Development, Cloud Computing, Data Engineering, Machine Learning, and Research. <br>
 
