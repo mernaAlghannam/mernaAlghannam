@@ -8,7 +8,7 @@ Hi 👋, my name is Merna Alghannam. I moved from a small town in my home countr
 <br>
 # 🚀 Currently Working On
 - **Low-budget Recipe Recommender** | Web Development 📝 <br>
-   - Target audience: busy students and professionals who want to eat cheap and healthy meals. 
+   - Target audience: anyone who want to eat cheap and healthy meals. 
    - Current features: <br>
          - ✔️ Using [Spoonacular API](https://spoonacular.com/food-api/docs#Ingredient-Search), you can input your budget, nutrients, and diet preferences and the app would recommend cheap recipes based on your input. <br>
          - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have, especially the ones nearing their expiration date. I am using [this really exciting api feature](https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients) to search recipes by ingredients.
