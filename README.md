@@ -20,7 +20,9 @@ Currently Working On 🚀
    - Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP, computational social science📜⛏️
 
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br><br>
-instagram: [merna.__.al](https://www.instagram.com/merna.__.al/) 
+Connect with me on: 
+<a href=”https://www.instagram.com/merna.__.al/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | Instagram” width=”21px”/></a>
+[merna.__.al](https://www.instagram.com/merna.__.al/) 
 
             
 # Skills/Expertise 
