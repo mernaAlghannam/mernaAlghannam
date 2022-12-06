@@ -1,4 +1,4 @@
-# About me
+# 👩 About me
 
 #### Hi 👋, my name is Merna Alghannam. I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am right today. ✨👩 💻
 -----
