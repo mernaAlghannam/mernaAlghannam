@@ -5,13 +5,12 @@ Hi 👋, my name is Merna Alghannam. I moved from a small town in my home countr
 🏫 I am majoring in computer science and minoring in mathematics and sociology @ Boston University. 
 <br><br>💼 I am a former <font style=color="#FFFF00"> **SWE intern @ Snapchat** </font>, where I worked on a lens **recommender system**.
 <br><br>
-'''diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
++ C +
+- O -
+! L !
+@@ O @@
+# R #
+S
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br>
 # 🚀 Currently Working On
