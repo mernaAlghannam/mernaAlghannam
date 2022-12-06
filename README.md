@@ -21,7 +21,7 @@ Currently Working On 🚀
 
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br><br>
 Connect with me on: 
-<a href=”https://www.instagram.com/merna.__.al/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | Instagram” width=”21px”/></a>
+<a href="https://www.instagram.com/merna.__.al/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | Instagram" width="21px"/></a>
 [merna.__.al](https://www.instagram.com/merna.__.al/) 
 
             
