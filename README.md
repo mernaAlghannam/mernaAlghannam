@@ -25,6 +25,6 @@ Currently Working On 🚀
 
 Software Development, Cloud Computing, Data Engineering, Machine Learning, and Research. <br>
 
-# 🤝 Connect with me on: 
+# 🤝 Connect with me on
 <a href="https://www.linkedin.com/in/merna-alghannam-a71163165/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/merna.__.al/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
