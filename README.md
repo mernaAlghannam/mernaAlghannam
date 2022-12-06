@@ -6,7 +6,7 @@ Hi 👋, my name is Merna Alghannam. I moved from a small town in my home countr
 💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **recommender system**. <br><br>
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br>
-# 🚀 Currently Working On
+# 🚀 Currently working on
 - **Low-budget Recipe Recommender** | Web Development 📝 <br>
    - Target audience: anyone who want to eat cheap and healthy meals. 
    - Current features: <br>
