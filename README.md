@@ -11,7 +11,7 @@ Hi 👋, my name is Merna Alghannam. I moved from a small town in my home countr
 ! Orange
 @@ Pink @@
 # Gray
-'''
+...
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br>
 # 🚀 Currently Working On
