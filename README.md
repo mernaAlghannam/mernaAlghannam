@@ -20,12 +20,11 @@ Currently Working On 🚀
    - Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter | NLP, computational social science📜⛏️
 
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br><br>
-# 🤝 Connect with me on: 
-<a href="https://www.linkedin.com/in/merna-alghannam-a71163165/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/merna.__.al/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-[merna.__.al](https://www.instagram.com/merna.__.al/) 
-
             
 # Skills/Expertise 
 
-Software Development, Cloud Computing, Data Engineering, Machine Learning, and Research. 
+Software Development, Cloud Computing, Data Engineering, Machine Learning, and Research. <br>
+
+# 🤝 Connect with me on: 
+<a href="https://www.linkedin.com/in/merna-alghannam-a71163165/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/merna.__.al/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
