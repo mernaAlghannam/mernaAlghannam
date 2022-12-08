@@ -3,7 +3,7 @@
 Hi 👋, I'm Merna. I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am right today. ✨💻 <br><br>
 
 🏫 I am majoring in computer science and minoring in mathematics and sociology @ Boston University. <br><br>
-💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **recommender system**. <br><br>
+💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **ranking/recommender system**. <br><br>
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br>
 # 🚀 Currently working on
