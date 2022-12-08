@@ -11,7 +11,7 @@ Hi 👋, I'm Merna. I moved from a small town in my home country to the United S
    - Target audience: anyone who want to eat cheap and healthy meals. 
    - Current features: <br>
          - ✔️ Using [Spoonacular API](https://spoonacular.com/food-api/docs#Ingredient-Search), you can input your nutrients and diet preferences and the app would recommend healthy recipes based on your input. Then, you can filter the options by your [max budget per serving](https://spoonacular.com/food-api/docs#Price-Breakdown-by-ID) to get cheaper recommendations. <br>
-         - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have, especially the ones nearing their expiration date. I am using [this api feature](https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients) to search recipes by ingredients.
+         - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have, especially the ones nearing their expiration date. I am using [this api feature](https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients) to search recipes by ingredients. You will also be able to rank by least to most number of missing ingredients.
    - Potential features: <br>
          - Input the end date of your ingredients. Then, the app will ping you when a food item is nearing its expiration date.<br>
          - Add preparation time as a filter <br>
