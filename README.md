@@ -14,8 +14,8 @@ Hi 👋, I'm Merna. I moved from a small town in my home country to the United S
          - (still incomplete) A feature that allows the app to recommend recipes based on the ingredients you have, especially the ones nearing their expiration date. I am using [this api feature](https://spoonacular.com/food-api/docs#Search-Recipes-by-Ingredients) to search recipes by ingredients.
    - Potential features: <br>
          - Input the end date of your ingredients. Then, the app will ping you when a food item is nearing its expiration date.<br>
-         - Add prepaation time as a filter <br>
-         - Add preparation time to calender or planner
+         - Add prepation time as a filter <br>
+         - Add recepe and preparation time to calender or planner
 
  - **Twitter Text Analysis Tool** | NLP, computational social science📜⛏️ <br>
    - Background: Twitter has allegedly stopped moderating content and returned controversial leaders back on the plaform. So, I'm developing a tool that tracks how these changes impacted traffic on Twitter
