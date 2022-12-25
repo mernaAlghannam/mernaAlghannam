@@ -7,7 +7,7 @@ Hi 👋, I'm Merna (ميرنا). I moved from a small town in my home country to
 💆 I enjoy painting, playing the violin, baking, and watching movies and basketball games. 
 <br>
 # 🚀 Currently working on
-- **Low-budget Recipe Recommender** | Web Development 📝🥦👨‍🍳🍳 [GitHub](https://github.com/mernaAlghannam/low-budget-recipe-recommender)<br>
+- **Low-budget Recipe Recommender** | Web Development 📝🥦🍳 [GitHub](https://github.com/mernaAlghannam/low-budget-recipe-recommender)<br>
    - Target audience: anyone who want to eat cheap and healthy meals. 
    - Current features: <br>
          - ✔️ Using [Spoonacular API](https://spoonacular.com/food-api/docs#Ingredient-Search), you can input your nutrients and diet preferences and the app would recommend healthy recipes based on your input. Then, you can filter the options by your [max budget per serving](https://spoonacular.com/food-api/docs#Price-Breakdown-by-ID) to get cheaper recommendations. <br>
