@@ -1,8 +1,3 @@
-
-
-https://user-images.githubusercontent.com/46355198/211444221-9cac204a-1299-4fbb-964c-6e998d99f721.mp4
-
-
 # 👩 About me
 
 Hi 👋, I'm Merna (ميرنا). I moved from a small town in my home country to the United States in 2019, and I never really imagined to be where I am today. ✨💻 <br>
