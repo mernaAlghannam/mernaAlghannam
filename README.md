@@ -4,7 +4,7 @@ Hi 👋, I'm Merna (ميرنا). I moved from a small town in my home country to
 
 🏫 I am majoring in computer science and minoring in mathematics and sociology @ Boston University. <br><br>
 💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **ranking/recommender system**. <br><br>
-💆 I enjoy painting, playing the violin, baking, watching movies and basketball games, .. and playing video games, boardgames, reading books, martial arts...
+💆 I enjoy painting, playing the violin, baking, watching movies and basketball games, .. and playing video games, boardgames, reading books, taking photos (especially film), martial arts...
 <br>
 # 🚀 Currently working on
 - **Low-budget Recipe Recommender** | Web Development 📝🥦🍳 [GitHub](https://github.com/mernaAlghannam/low-budget-recipe-recommender)<br>
