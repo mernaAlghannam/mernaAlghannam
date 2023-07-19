@@ -2,7 +2,7 @@
 
 🏫 I am majoring in computer science @ Boston University. <br><br>
 💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **ranking/recommender system**. <br><br>
-💆 I enjoy painting, playing the violin, baking, watching movies and basketball games... and playing video games, boardgames, reading books, taking photos (film or digital), martial arts...
+💆 I enjoy painting, playing the violin, baking, watching movies and basketball games
 <br>
 # 🚀 Currently working on
 - **Low-budget Recipe Recommender** | Web Development 📝🥦🍳 [GitHub](https://github.com/mernaAlghannam/low-budget-recipe-recommender)<br>
