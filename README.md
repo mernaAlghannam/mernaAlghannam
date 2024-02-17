@@ -5,7 +5,7 @@
 💆 I enjoy painting, playing the violin, baking, watching movies and basketball games
 <br>
 # 🚀 Currently working on
-- Quantitative Psychology Lab: WebGazer, statistical methods <br><br>
+- Quantitative Psychology Lab: statistical methods <br><br>
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br>
             
 # 💼 Skills/Expertise 
