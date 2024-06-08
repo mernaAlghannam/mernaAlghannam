@@ -6,7 +6,7 @@
 <br>
 # 🚀 Currently working on
 - Quantitative Psychology Lab: statistical methods <br><br>
-- Data Protection (Cybersecurity Analysis)
+- Data Protection (Cybersecurity Analysis) <br><br>
 **I'm open to collaboration.. you can email me on merna.alghannam@gmail.com** <br>
             
 # 💼 Skills/Expertise 
