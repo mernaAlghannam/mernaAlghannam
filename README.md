@@ -1,7 +1,7 @@
 # 👩 About me
 
 🏫 I am Boston University computer science alumni. <br><br>
-💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on a lens **ranking/recommender system**. <br><br>
+💼 I am a former SWE intern @ $\textcolor{yellow}{\text{Snapchat}}$, where I worked on video/lens **ranking/recommender system**. <br><br>
 💆 I enjoy painting, playing the violin, baking, watching movies and basketball games
 <br>
 # 🚀 Currently working on
