@@ -1,6 +1,6 @@
 # 👩 About me
 
-🏫 I am Boston University computer science alumni. <br><br>
+🏫 I am Boston University computer science alumni with a math minor. <br><br>
 💼 I am a Cybersecurity Analyst @ Saudi Aramco <br><br>
 💆 I enjoy painting, playing the violin, baking, watching movies and basketball games
 <br>
